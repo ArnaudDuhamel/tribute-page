@@ -89,12 +89,13 @@ figure {
 }
 
 figure img {
-    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 figure figcaption {
     font-size: 12px;
-    margin: auto 1px;
 }
 
 .picture-main-text > div {
