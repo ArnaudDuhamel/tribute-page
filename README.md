@@ -13,3 +13,8 @@ This is the second project done to obtain the Free Code Camp Responsive Web Desi
 ## HTML skeleton
 
 <img src="HTML-Skeleton_tribute-page.png" />
+
+## Final result
+
+<img src="Final_result.png" />
+
