@@ -123,7 +123,7 @@ This is the second project done to obtain the Free Code Camp Responsive Web Desi
 </details>
 
 <details>
-  <summary>HTML code</summary>
+  <summary>CSS code</summary>
   
 ```css
 
