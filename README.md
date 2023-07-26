@@ -310,5 +310,5 @@ main h2 {
 
 ## Final result
 
-<img src="Final_result.png" />
+<img src="final_result.png" />
 
