@@ -2,7 +2,7 @@
 
 This is the second project done to obtain the Free Code Camp Responsive Web Design certification.
 
-[**Code Pen link**](https://codepen.io/Arnaud-Duhamel/pen/XWyxmgg)
+[**Code Pen link**](https://codepen.io/Arnaud-Duhamel/full/XWyxmgg)
 
 <details>
   <summary>HTML code</summary>
