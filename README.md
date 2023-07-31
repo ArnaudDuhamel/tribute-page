@@ -2,6 +2,8 @@
 
 This is the second project done to obtain the Free Code Camp Responsive Web Design certification.
 
+The dates are most likely not accurate. However, the milestones are correct.
+
 [**Code Pen link**](https://codepen.io/Arnaud-Duhamel/full/XWyxmgg)
 
 <details>
